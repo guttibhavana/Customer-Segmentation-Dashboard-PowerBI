@@ -57,5 +57,9 @@ This project helped in understanding:
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Author
 Bhavana
